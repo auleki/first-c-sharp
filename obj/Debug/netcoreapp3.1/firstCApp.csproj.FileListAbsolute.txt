@@ -1,0 +1,13 @@
+C:\AU\Playground\c#\firstCApp\bin\Debug\netcoreapp3.1\firstCApp.exe
+C:\AU\Playground\c#\firstCApp\bin\Debug\netcoreapp3.1\firstCApp.deps.json
+C:\AU\Playground\c#\firstCApp\bin\Debug\netcoreapp3.1\firstCApp.runtimeconfig.json
+C:\AU\Playground\c#\firstCApp\bin\Debug\netcoreapp3.1\firstCApp.runtimeconfig.dev.json
+C:\AU\Playground\c#\firstCApp\bin\Debug\netcoreapp3.1\firstCApp.dll
+C:\AU\Playground\c#\firstCApp\bin\Debug\netcoreapp3.1\firstCApp.pdb
+C:\AU\Playground\c#\firstCApp\obj\Debug\netcoreapp3.1\firstCApp.csprojAssemblyReference.cache
+C:\AU\Playground\c#\firstCApp\obj\Debug\netcoreapp3.1\firstCApp.AssemblyInfoInputs.cache
+C:\AU\Playground\c#\firstCApp\obj\Debug\netcoreapp3.1\firstCApp.AssemblyInfo.cs
+C:\AU\Playground\c#\firstCApp\obj\Debug\netcoreapp3.1\firstCApp.csproj.CoreCompileInputs.cache
+C:\AU\Playground\c#\firstCApp\obj\Debug\netcoreapp3.1\firstCApp.dll
+C:\AU\Playground\c#\firstCApp\obj\Debug\netcoreapp3.1\firstCApp.pdb
+C:\AU\Playground\c#\firstCApp\obj\Debug\netcoreapp3.1\firstCApp.genruntimeconfig.cache
